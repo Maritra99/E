@@ -1,0 +1,22 @@
+.search-form {
+    margin-right: 10px;
+    margin-top: 4px;
+  }
+  .search-form input {
+    border-color: rgb(189, 188, 188);
+    border-radius: 80;
+  }
+.search-form input ::selection{
+    border-color: black;
+}
+
+  .search-form button {
+    background-color: #474646;
+    border-radius: 80;
+    color: white;
+  }
+
+  .search-form button:hover{
+    background-color:rgb(189, 186, 186);
+    color: black;
+  }
