@@ -54,9 +54,9 @@ The MERN Stack Ecommerce Project is an end-to-end web application that aims to p
 ## Installation
 ### Clone the repository:
 
-git clone https://github.com/https://github.com/Maritra99/ECommerce.git
+git clone https://github.com/Maritra99/ECommerce.git
 
-cd ecommerce-mern-stack
+cd ECommerce
 
 ### Install dependencies for both the client and server:
 
